@@ -1,10 +1,10 @@
 # 📌 AWS B2B ixi-AI projects
 
-> ✨ 한 줄 소개: LG Uplus B2B AX 플랫폼 개발팀에서 제공하는 AWS B2B 서비스를 소개하는 페이지입니다. 
+> ✨ 한 줄 소개: LG Uplus B2B AX 플랫폼 개발팀에서 제공하는 AWS 기반 AI 서비스를 소개하는 페이지입니다. 
 
 ![Demo GIF](https://your-demo-url.com/demo.gif)  
 
-## Table of Services
+## 📖 Table of Services
 > 🎬 AI 자막 생성(ixi-caption) : https://github.com/awsdevgen/ixi-caption
 
 ## 👨‍💻 기여 방법
