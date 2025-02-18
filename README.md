@@ -36,13 +36,15 @@ python main.py
 프로젝트를 실행하는 기본적인 사용법은 다음과 같습니다.
 
 ```bash
-python main.py --option value```
+python main.py --option value
+```
 또는 Python 코드에서 직접 호출할 수도 있습니다.
 ```
 from your_project import main
 
 result = main.run("input data")
-print(result)```
+print(result)
+```
 더 많은 옵션과 기능은 📘 문서 참고하세요.
 
 ## 🔬 예제 코드
@@ -53,10 +55,12 @@ from your_project import cool_feature
 data = "음성 파일.wav"
 output = cool_feature.analyze(data)
 
-print("분석 결과:", output)```
+print("분석 결과:", output)
+```
 
 📌 결과 예시
-```분석 결과: {'text': '안녕하세요', 'confidence': 0.98}
+```
+분석 결과: {'text': '안녕하세요', 'confidence': 0.98}
 ```
 
 
